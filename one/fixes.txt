@@ -1,1 +1,2 @@
 this is a file to fix the bugs
+something new is fixed
